@@ -1,0 +1,17 @@
+{
+    "proximo_id": 9,
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "ronald",
+            "idade": 23,
+            "email": "ronin@gmail.com"
+        },
+        {
+            "id": 2,
+            "nome": "Rafael martins",
+            "idade": 19,
+            "email": "rafael@gmail.com"
+        }
+    ]
+}
